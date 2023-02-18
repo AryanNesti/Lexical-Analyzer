@@ -1,3 +1,4 @@
+#Lexical-Analyzer
 This project will be followed by two other projects to build a parser and interpreter to the same language. Although, I am not concerned about the syntax definitions of the language in this project. The syntax definitions of the small programming language are given below using EBNF notations. The details of the meanings (i.e. semantics) of the language constructs will be given later on.
 
 ```
